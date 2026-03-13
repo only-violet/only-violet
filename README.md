@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Violet</h1>
+<h1 align="center">Hi 💓, I'm Violet</h1>
 <h3 align="center">Monad Coder | Web3 Automation</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@ Just a coder building tools on Monad and experimenting with crypto automation.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,solidity,git,docker" />
@@ -15,7 +15,7 @@ Just a coder building tools on Monad and experimenting with crypto automation.
 
 ---
 
-## 🛠 Current Focus
+## Current Focus
 
 - Building tools on Monad  
 - Web3 automation scripts  
@@ -24,7 +24,7 @@ Just a coder building tools on Monad and experimenting with crypto automation.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=only-violet&show_icons=true&theme=tokyonight" />
@@ -32,7 +32,7 @@ Just a coder building tools on Monad and experimenting with crypto automation.
 
 ---
 
-## 📈 Top Languages
+## Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-violet&layout=compact&theme=tokyonight" />
