@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Violet</h1>
-<h3 align="center">Monad Coder | Web3 Automation | Onchain Research</h3>
+<h3 align="center">Monad Coder | Web3 Automation</h3>
 
 <p align="center">
-Just a coder building tools on Monad, experimenting with automation, trading systems, and exploring DeFi protocols.
+Just a coder building tools on Monad and experimenting with crypto automation.
 </p>
 
 ---
@@ -20,22 +20,14 @@ Just a coder building tools on Monad, experimenting with automation, trading sys
 - Building tools on Monad  
 - Web3 automation scripts  
 - Crypto trading utilities  
-- On-chain data exploration  
+- Onchain data exploration  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Only__Violet&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Only__Violet&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=only-violet&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -43,21 +35,12 @@ Just a coder building tools on Monad, experimenting with automation, trading sys
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Only__Violet&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=only-violet&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🧠 Interests
-
-- DeFi mechanisms  
-- Onchain analytics  
-- Trading automation  
-- Blockchain infrastructure  
 
 ---
 
 ## 🌐 Connect With Me
 
-- X: https://x.com/only__violet  
-- GitHub: https://github.com/only__violet
+- X: https://x.com/only__violet
+- GitHub: https://github.com/only-violet
